@@ -1,0 +1,10 @@
+h3 {
+    cursor: pointer;
+    color: palevioletred;
+}
+
+body {
+    background-image: url("sadface.png");
+    background-size: contain, cover;
+    background-color: red;
+}
